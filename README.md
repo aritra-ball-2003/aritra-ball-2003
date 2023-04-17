@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my hobbies
 - 📫 How to reach me: aritrabal1403@gmail.com
 - ⚡ Fun fact: I love playing video games
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width=40 height=40></a>
