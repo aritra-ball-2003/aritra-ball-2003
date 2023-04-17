@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love playing video games
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width=40 height=40></a>
+
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width=40 height=40></a>
